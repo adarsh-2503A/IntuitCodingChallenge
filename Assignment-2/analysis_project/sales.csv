@@ -1,0 +1,5 @@
+orderId,date,region,product,category,quantity,unitPrice
+1,2025-01-10,Hyderabad,Iphone,Phone,2,75000.0
+2,2025-01-11,Bangalore,Mac,Laptop,1,150000.0
+3,2025-02-05,Chennai,Airpods,Accessories,3,23000.0
+4,2025-02-07,Hyderabad,Ipad,Electronics,6,40000.0
